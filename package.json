@@ -1,0 +1,13 @@
+{
+  "name": "jam-sessions-api",
+  "version": "1.0.0",
+  "description": "API for Jam Sessions",
+  "main": "index.js",
+  "repository": "https://github.com/eib/jam-sessions-api.git",
+  "author": "EthanB",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0"
+  }
+}
